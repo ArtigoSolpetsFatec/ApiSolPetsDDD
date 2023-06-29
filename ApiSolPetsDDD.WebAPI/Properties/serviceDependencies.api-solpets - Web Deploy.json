@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "apis1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.ApiManagement/service/ApiSolPetsDDDWebAPIapi/apis/ApiSolPetsDDDWebAPI",
+      "type": "apis.azure"
+    }
+  }
+}
